@@ -1,0 +1,9 @@
+body{
+    color: yellow;
+    background: black;
+}
+
+
+.card *{
+    color: black;
+}
